@@ -9,7 +9,7 @@ Kelas : TI.18.A.3
 
 Dosen Pengampu : Agung Nugroho,S.Kom.,M.Kom
 
-# Web Hosting :http://faisaluser.epizy.com
+# Web Hosting :http://ibnucrud123.epizy.com/
 
 Buatlah Aplikasi CRUD sederhana dengan ketentuan:
 
